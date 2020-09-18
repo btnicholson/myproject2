@@ -17,4 +17,4 @@ Welcome to my research website.
 
 
 
-* [Cassandra](https://cazeredotseng.github.io/myproject/)
+* [Link to Cassandra's page](https://cazeredotseng.github.io/myproject/)
